@@ -1,9 +1,0 @@
-# Language Level Analysis and Text Simplification Resources
-
-To be continued...
-
-## Language Level Classification
-...
-
-## Difficult Words
-...
